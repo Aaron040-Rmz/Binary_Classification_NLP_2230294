@@ -33,7 +33,8 @@ Puedes instalar estas dependencias utilizando `pip`:
 ```bash
 pip install numpy matplotlib tensorflow
 ```
-🗂️ Estructura del Proyecto
+## 🗂️ Estructura del Proyecto
+
 El proyecto está organizado de la siguiente manera:
 
 ``` bash
